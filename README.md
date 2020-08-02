@@ -1,9 +1,2 @@
 <img alt="leetim13's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leetim13&show_icons=true&hide_border=true&count_private=true&theme=cobalt" />
 <img alt="leetim13's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leetim13&theme=cobalt" />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
