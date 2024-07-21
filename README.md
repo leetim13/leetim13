@@ -1,3 +1,3 @@
 # About Me
-Data scientist/consultant @ BCG who is passionate about data science, machine learning, finance, and consulting- aiming to solve real-life business problems with a data-driven approach :)
-
+Data scientist and consultant experienced in leading AI and digital transformation strategies; proficient in
+productionizing end-to-end machine learning systems across retail, healthcare, and finance industries.
